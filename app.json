@@ -1,7 +1,7 @@
 {
     "name": "SlayerX Music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/e27e233e14eb9f3271885.jpg",
+    "logo": "https://telegra.ph/file/543f8d43bfa4a190441ee.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,32 +14,32 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "28775994",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "5e937eb61580819ce08370e406dd42d3",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6828058353:AAGLfCYYi18H382UgKrjFaVqWt0VV6yfzyA",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://Narutoo:hinatahyuga@hater.0luw79s.mongodb.net/",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "5562647760",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session.",
-        "value": "",
+        "value": "BQG3FjoAFu5DUmbpcOxAcRkLwsPkW2D8_scG2-GbydE814LriuMKKrsvXWc0_oc377Xhm4EsyBdihLcb27s2_R25sPd0ZfgrYcY-v0diZ33aD17uRBWXX0lE2gBhUzHIs4fdhvO47rmGKfUKdroY0xVFo5fiLIyrLY9WSChDYEbfIuCTRgtcrq-vZjSL29dkN0q0QngNOYLVcZGh4ZlJP4jJxQBh_j2i6r4Z_lUxp8J8W2lqKB9Gj2AdZoks72aFkCz_o8zG0UV2or4kJMMNGuCjvtsJ_ybrsyn3wME4uDIti4kZshfgZBZxB30j7zMPR-L4FhS3FtJSWHtIrVM5AMPT4xM3PgAAAAGDRlMKAA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -54,27 +54,27 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!",
-        "value": "",
+        "value": "-1001944651972",
         "required": true
       },
       "SUPPORT_CHAT": {
         "description": "Add your group link here.",
-        "value": "",
+        "value": "https://t.me/Blade_x_support",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Add your channel link here.",
-        "value": "",
+        "value": "https://t.me/Blade_x_community",
         "required": false
       },
       "START_IMG_URL": {
         "description": "If you want to change it, replace it with your IMAGE URL.",
-        "value": "https://graph.org/file/db7653b29f9b702cb12f8.jpg",
+        "value": "https://telegra.ph/file/94eb75c02e907e48fba24.jpg",
         "required": true
       },
       "PING_IMG_URL": {
         "description": "If you want to change it, replace it with your IMAGE URL.",
-        "value": "https://graph.org/file/bc7f8903e60fbfafa2eb4.jpg",
+        "value": "https://telegra.ph/file/ed051f4da8841033a6cc9.jpg",
         "required": true
       }
     },
